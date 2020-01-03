@@ -2,6 +2,8 @@
 
 This component pauses and hides an entity if it does not contain any of the specified states.
 
+Using tihs along with [aframe-vr-mode-watcher](https://github.com/Eolu/aframe-vr-mode-watcher) can allow you to create entities that are conditionally active only during vr or non-vr modes.
+
 ## API
 
 | Property | Description | Default Value |
