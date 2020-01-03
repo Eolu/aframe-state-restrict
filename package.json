@@ -1,0 +1,30 @@
+{
+    "name": "aframe-state-restrict",
+    "version": "1.0.0",
+    "description": "a-frame component which pauses and hides an entity if it does not contain any of the specified states.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Eolu/aframe-state-restrict"
+    },
+    "keywords": [
+        "aframe",
+        "aframe-component",
+        "aframe-vr",
+        "vr",
+        "mozvr",
+        "webvr"
+    ],
+    "author": "Griffin O'Neill",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Eolu/aframe-state-restrict/issues"
+    },
+    "homepage": "https://github.com/Eolu/aframe-state-restrict#readme",
+    "devDependencies": {
+        "aframe": "^1.0.0"
+    }
+}
