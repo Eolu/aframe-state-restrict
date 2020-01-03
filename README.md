@@ -2,7 +2,7 @@
 
 This component pauses and hides an entity if it does not contain any of the specified states.
 
-Using tihs along with [aframe-vr-mode-watcher](https://github.com/Eolu/aframe-vr-mode-watcher) can allow you to create entities that are conditionally active only during vr or non-vr modes.
+Using this along with [aframe-vr-mode-watcher](https://github.com/Eolu/aframe-vr-mode-watcher) can allow you to create entities that are conditionally active only during vr or non-vr modes.
 
 ## API
 
@@ -22,7 +22,7 @@ Install and use by directly including the [browser files](dist):
 <head>
   <title>My A-Frame Scene</title>
   <script src="https://aframe.io/releases/1.0.0/aframe.min.js"></script>
-  <script src="https://unpkg.com/aframe-state-restrict@1.0.0/dist/aframe-state-restrict.min.js"></script>
+  <script src="https://unpkg.com/aframe-state-restrict@1.0.1/dist/aframe-state-restrict.min.js"></script>
 </head>
 
 <body>

@@ -1,6 +1,6 @@
 {
     "name": "aframe-state-restrict",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "a-frame component which pauses and hides an entity if it does not contain any of the specified states.",
     "main": "index.js",
     "scripts": {
