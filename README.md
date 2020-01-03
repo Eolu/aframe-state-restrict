@@ -1,4 +1,4 @@
-# VR Mode Watcher
+# Entity State Restrictor
 
 This component pauses and hides an entity if it does not contain any of the specified states.
 
